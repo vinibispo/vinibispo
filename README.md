@@ -4,7 +4,7 @@
 ---
 ![99run](https://s3-sa-east-1.amazonaws.com/site-maratonavirtual/Imagens/Lp_curso/logo99run.png)
 ---
-I love working with NodeJS, Vim, Zsh and Tmux
+I love working with Ruby, Vim, Zsh and Tmux
 ---
 These are my [dotfiles](https://github.com/vinibispo/dotfiles)
 ---
