@@ -13,4 +13,4 @@ Contact me using [Linkedin](https://www.linkedin.com/in/vinibispo16/) or [Instag
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=vinibispo&theme=onedark&show_icons=true)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=onedark&username=vinibispo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinibispo&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
