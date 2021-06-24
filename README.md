@@ -1,8 +1,6 @@
 # About me
 ---
-## Hello, my name is Vinícius Bispo, currently I'm working on [UpMedal](https://99run.com) as Software Engineer (FullStack)
----
-![UpMedal](https://www.upmedal.com/favicon.ico)
+## Hello, my name is Vinícius Bispo, currently I'm working with Ruby On Rails, React JS, React Native & NodeJS
 ---
 I love working with Ruby, Vim, Zsh and Tmux
 ---
